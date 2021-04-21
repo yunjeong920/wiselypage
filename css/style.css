@@ -121,7 +121,7 @@ h1,h2,h3,h4,h5,h6{ line-height: 1; }
   font-size: 50px;
   line-height: 60px;
   font-weight: 300;
-  color: #blue;
+  color: blue;
 }
 
 /*메인배너 서브타이틀*/
