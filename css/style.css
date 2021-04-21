@@ -5,10 +5,6 @@ ul,li{ list-style: none; }
 a{ color: #666666; }
 h1,h2,h3,h4,h5,h6{ line-height: 1; }
 
-body{
-  background: pink;
-}
-
 /*너비 최소값 지정*/
 #mainbanner,#container section,#footer{
   min-width: 1320px;
